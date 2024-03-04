@@ -1,0 +1,6 @@
+exec SetRXIDCode = 45CAFEC0FFEECAFEC0FFEECAFEC0FFEE
+r
+h
+loadfile D:\QA\Alladio\MC\T703\WasherAlladio_573426a_BN_270\binaries\WasherAlladio_application_v0.0.0.0_boot_loader_v0.0.0.0.mot
+r
+exit
